@@ -2,6 +2,7 @@ const CACHE_NAME = "static-cache-v2";
 const DATA_TO_CACHE = "data-cache-v1";
 const FILES_TO_CACHE = [
     "/",
+    "/styles.css",
     "/index.html",
     "/manifest.webmanifest",
     "/public/icons/icon-192x192.png",
